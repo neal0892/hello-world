@@ -1,2 +1,1 @@
-# hello-world
-As per age old custom of computer world , I am creating this repository to advance in blend in with GIT .
+I am Neeraj . I am deeply interested in technology , but its never too late i guess , SO here I come .
